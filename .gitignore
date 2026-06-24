@@ -1,0 +1,15 @@
+# Playwright MCP 로컬 디버깅 산출물
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 환경 변수
+.env
+
+# OS
+.DS_Store
+Thumbs.db
